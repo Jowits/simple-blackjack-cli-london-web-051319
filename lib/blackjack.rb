@@ -5,12 +5,13 @@ end
 
 def deal_card(number)
   # code #deal_card here
-  number = rand(1...11)
+  and(1..11)
 
 end
 
 def display_card_total(card_total)
   # code #display_card_total here
+  puts
 
 end
 
